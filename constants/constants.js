@@ -64,7 +64,7 @@ export const TECH_STACK = [
   'CSS',
   'BLOCK CHAIN',
   'WEB3',
-  'SOLIDITY'
+  'SOLIDITY',
   'AI Development',
   'Material UI',
   'RESTful API',
