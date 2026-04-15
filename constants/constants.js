@@ -4,8 +4,8 @@ export const DESIGNATION = `Lead Senior FullStack Engineer          Frontend & B
 
 export const DETAILS = {
   Mail: 'scottwillats234@gmail.com',
-  Residence: 'Warsaw,Poland',
-  Address: '  Warszawska202 05-520 Poland',
+  Residence: 'Warszawa, Poland',
+  Address: '  UL. Mariana Smoluchowskiego 3 m5, Warszawa (Mokotów)',
   Phonenum: '+48 793-162-745',
   Age: '30',
 };
@@ -17,7 +17,7 @@ export const SKILLS = [
   // },
   {
     title: 'Lead Senior FullStack Engineer',
-    level: '97%',
+    level: '95%',
   },
   // {
   //   title: 'Desktop Application Developer',
@@ -29,7 +29,7 @@ export const SKILLS = [
   },
   {
     title: 'Frontend Developer',
-    level: '92%',
+    level: '90%',
   },
   {
     title: 'Flexible Database',
@@ -37,30 +37,37 @@ export const SKILLS = [
   },
   {
     title: 'SEO',
-    level: '78%',
+    level: '80%',
   },
 ];
 
 export const TECH_STACK = [
   'WebDesign',
+  'PYTHON',
+  'Django',
   'ReactJS',
   'Vue',
   'NextJS',
   'TypeScript',
   'Laravel',
-  'python',
-  'Django',
   'NodeJS',
+  '.Net',
+  'Ecommerce',
+  'Shopify',
   'Ruby',
   'Ionic',
   'Angular',
-  'Hybrid app development',
+  'Hybrid Mobile Dev',
+  'Hybrid',
   'Redux',
   'Zustand',
   'CSS',
+  'BLOCK CHAIN',
+  'WEB3',
+  'SOLIDITY'
   'AI Development',
   'Material UI',
-  'REST API',
+  'RESTful API',
   'PHP',
   'MongoDB',
   'Azure',
@@ -68,6 +75,9 @@ export const TECH_STACK = [
   'Firebase',
   'GitHub',
   'Jira',
+  'AI DEV',
+  'OAuth2',
+  'Tech Lead',
   'Communcation'
 ];
 
