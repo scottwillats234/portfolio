@@ -20,7 +20,7 @@ const Banner = () => {
                                                 options={{
                                                     strings:
                                                         ['Mail: scottwillats234@gmail.com', 'Phonenum: +48 793-162-745',
-                                                            'Address: Warszawska202 05-520 Poland', 'Birthday: 05/30/1996'],
+                                                            'Address: UL. Mariana Smoluchowskiego 3 m5, Warszawa (Mokotów)', 'Birthday: 05/30/1996'],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
